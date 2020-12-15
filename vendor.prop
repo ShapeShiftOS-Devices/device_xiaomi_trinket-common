@@ -109,3 +109,6 @@ ro.surface_flinger.use_color_management=1
 
 # Time
 persist.vendor.delta_time.enable=true
+
+# Set rendering pipeline mode to Vulkan
+debug.hwui.renderer=skiavk
